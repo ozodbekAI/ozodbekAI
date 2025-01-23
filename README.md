@@ -21,5 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ozodbekAI&icon=10&color=7)](https://visitcount.itsvg.in)
 
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
